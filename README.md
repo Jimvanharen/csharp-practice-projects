@@ -11,3 +11,5 @@ You can download the executable file to see how the program looks like its calle
 
 You can look at the source code to see how the program works.
 
+I will come with new projects every now and then, I hope you're excited!
+
