@@ -15,6 +15,7 @@ I will come with new projects every now and then, I hope you're excited!
 
 
 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 EGGTIMER V1.0 
 
@@ -24,4 +25,6 @@ I hope you'll get a better understanding of those terms after looking at the pro
 You can also learn a lot if you tweak some stuff in the Eggtimer.
 
 Happy tweaking!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
