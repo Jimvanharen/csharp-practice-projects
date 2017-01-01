@@ -1,12 +1,9 @@
 # csharp-practice-projects
-Here you will see my projects I created as an education tool to learn the fundamentels of C# most of them are a ConsoleApplication.
+Here you will see my projects I created as an education tool to learn the fundamentels of C# most of them are of ConsoleApplication type.
 
 
 You can do whatever you want with these projects I dont really care.
-I would actually love to see if the Timer can become better.
-
-
-You can download the executable file to see how the program looks like its called -ConsoleEggTimer exe.exe-
+I would love to see you make them better!
 
 
 You can look at the source code to see how the program works.
@@ -27,4 +24,16 @@ You can also learn a lot if you tweak some stuff in the Eggtimer.
 Happy tweaking!
 
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ElementStringDownloader V1.0 
+
+This program allows you to download the element based on which website the user wants
+the element from. It also creates a text file (Based on user input y/n)
+It has also an textfileID number generator I hope you'll learn something from it!
+
+Happy tweaking!
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
